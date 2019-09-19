@@ -17,5 +17,4 @@ class Song
 
   self.count
   end
-
 end
