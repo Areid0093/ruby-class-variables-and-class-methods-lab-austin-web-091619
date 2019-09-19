@@ -16,16 +16,6 @@ class Song
   end  
 
   self.count
-  
-
-
-
-
-
-
-
-
-
-
+  end
 
 end
