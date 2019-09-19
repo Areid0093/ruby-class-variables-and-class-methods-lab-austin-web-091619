@@ -15,6 +15,8 @@ class Song
     @@artists << artist
   end  
 
+  self.count
+  
 
 
 
